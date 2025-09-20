@@ -2,4 +2,6 @@
 
 - En construcción
 
-- ""como funciona esto ""
+Para activar
+
+""como funciona esto ""
