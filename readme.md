@@ -3,5 +3,4 @@
 - En construcción
 
 Para activar
-
-""como funciona esto ""
+'''como funciona esto'''
